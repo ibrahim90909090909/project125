@@ -1,0 +1,28 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow:5px 5px 5px wheat;
+}
+.note{
+font-size: 12px;
+color:black;
+}
+.copy_right_footer{
+position:fixed;
+color:azure;
+bottom:0;
+width:100%;
+background-color: gray;
+line-height: 3;
+text-align: center;
+}
+canvas{
+border:5px solid white ;
+border-radius: 20px;
+box-shadow:5px 5px 5px grey;
+}
+body{
+background: url("https://media.istockphoto.com/photos/newspaper-vintage-grunge-collage-seamless-texture-picture-id992042972?b=1&k=20&m=992042972&s=170667a&w=0&h=TexmXRCmW-CUcoQ6MOPurzoEIgyC4BKRD4PuR8KxkCc=");
+background-size: cover;
+}
